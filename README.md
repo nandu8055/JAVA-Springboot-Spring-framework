@@ -146,7 +146,3 @@ This project is licensed under the **MIT License**.
 
 🔥 **Star this repo ⭐ if you found it useful!**  
 💬 **Have questions?** Open an issue or reach out!  
-
----
-
-This **README** is visually appealing, well-structured, and **optimized for GitHub!** 🚀 Let me know if you want any modifications. 💡
